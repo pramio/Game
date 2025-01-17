@@ -1,5 +1,27 @@
-Welcome to the classic Tic Tac Toe game, developed by Palash Ch Sarkar! Challenge your friends or test your skills against a computer opponent in this simple yet addictive game. The objective is to align three of your marks—either 'X' or 'O'—in a row, whether horizontally, vertically, or diagonally, before your opponent does.
+Overview: A brief description of the project as a modern implementation of the classic game, featuring single-player (with AI) and multiplayer modes.
 
-With features like single and two-player modes, responsive design for any device, and score tracking to keep track of your wins and losses, this game offers a fun and competitive experience for players of all ages. Enjoy strategizing and outsmarting your opponent in this timeless game!
 
-Feel free to use or adapt this summary for your Tic Tac Toe game!
+Features:
+
+Two modes: Single Player (with AI using the Minimax Algorithm) and Multiplayer.
+
+Dynamic game board with animations and responsive design.
+
+Scoreboard to track player scores across games.
+
+Restart option to reset the game while retaining scores.
+
+How to Run: Instructions to clone the repository, open the index.html file, and start playing.
+
+Technologies Used: Highlighted the use of HTML, CSS, and JavaScript for the game's structure, design, and logic.
+
+AI Implementation: Explanation of how the AI uses the Minimax Algorithm for optimal gameplay.
+
+Future Enhancements: Suggested improvements like online multiplayer, AI difficulty levels, saving scores, and enhanced animations.
+
+structure -
+tic-tac-toe/
+├── index.html          # Main HTML file for the game.
+├── style.css           # Stylesheet for the game's UI and animations.
+├── main.js             # JavaScript file containing the game logic.
+└── README.md           # Project documentation.
